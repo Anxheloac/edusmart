@@ -1,0 +1,27 @@
+Jan 16, 2020 12:34:22 AM com.edusmart.web.controllers.TeacherController store
+INFO: Store teacher:com.edusmart.web.forms.TeacherUser@7c6b47e3
+Jan 16, 2020 12:34:24 AM com.edusmart.web.controllers.TeacherController store
+INFO: Validation failed for classes [com.edusmart.web.entities.Teacher] during persist time for groups [javax.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Please provide a name', propertyPath=name, rootBeanClass=class com.edusmart.web.entities.Teacher, messageTemplate='Please provide a name'}
+]
+Jan 16, 2020 12:35:59 AM com.edusmart.web.controllers.TeacherController store
+INFO: Store teacher:com.edusmart.web.forms.TeacherUser@7f8c619e
+Jan 16, 2020 12:35:59 AM com.edusmart.web.controllers.TeacherController store
+INFO: Validation failed for classes [com.edusmart.web.entities.Teacher] during persist time for groups [javax.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Please provide a name', propertyPath=name, rootBeanClass=class com.edusmart.web.entities.Teacher, messageTemplate='Please provide a name'}
+]
+Jan 16, 2020 12:37:00 AM com.edusmart.web.controllers.TeacherController store
+INFO: Store teacher:com.edusmart.web.forms.TeacherUser@2ea8712f
+Jan 16, 2020 12:37:00 AM com.edusmart.web.controllers.TeacherController store
+INFO: Validation failed for classes [com.edusmart.web.entities.Teacher] during persist time for groups [javax.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Please provide a name', propertyPath=name, rootBeanClass=class com.edusmart.web.entities.Teacher, messageTemplate='Please provide a name'}
+]
+Jan 16, 2020 12:41:06 AM com.edusmart.web.controllers.TeacherController store
+INFO: Store teacher:com.edusmart.web.forms.TeacherUser@d927471
+Jan 16, 2020 12:41:06 AM com.edusmart.web.controllers.TeacherController store
+INFO: could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+Jan 16, 2020 12:42:37 AM com.edusmart.web.controllers.TeacherController store
+INFO: Store teacher:com.edusmart.web.forms.TeacherUser@57ed81b6
